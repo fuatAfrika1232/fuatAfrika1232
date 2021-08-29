@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fuatAfrika1232
-- 👀 I’m interested in ...
+- 👀 I’m interested in Pyhton
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
